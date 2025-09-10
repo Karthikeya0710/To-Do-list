@@ -2,7 +2,7 @@ Sure! Here's a GitHub README content for your colorful, fun student-made To-Do L
 
 ---
 
-# 🛠️ My Todo List
+#  My Todo List
 
 A **fun and colorful** to-do list web app built with HTML, CSS, and JavaScript — perfect for students and anyone who wants to keep their tasks organized in a cheerful way!
 
